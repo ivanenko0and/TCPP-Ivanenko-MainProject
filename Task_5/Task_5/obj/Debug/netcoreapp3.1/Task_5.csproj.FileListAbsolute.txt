@@ -1,0 +1,13 @@
+D:\User\Work\1\QualificationTask\Task_5\Task_5\bin\Debug\netcoreapp3.1\Task_5.exe
+D:\User\Work\1\QualificationTask\Task_5\Task_5\bin\Debug\netcoreapp3.1\Task_5.deps.json
+D:\User\Work\1\QualificationTask\Task_5\Task_5\bin\Debug\netcoreapp3.1\Task_5.runtimeconfig.json
+D:\User\Work\1\QualificationTask\Task_5\Task_5\bin\Debug\netcoreapp3.1\Task_5.runtimeconfig.dev.json
+D:\User\Work\1\QualificationTask\Task_5\Task_5\bin\Debug\netcoreapp3.1\Task_5.dll
+D:\User\Work\1\QualificationTask\Task_5\Task_5\bin\Debug\netcoreapp3.1\Task_5.pdb
+D:\User\Work\1\QualificationTask\Task_5\Task_5\obj\Debug\netcoreapp3.1\Task_5.csprojAssemblyReference.cache
+D:\User\Work\1\QualificationTask\Task_5\Task_5\obj\Debug\netcoreapp3.1\Task_5.AssemblyInfoInputs.cache
+D:\User\Work\1\QualificationTask\Task_5\Task_5\obj\Debug\netcoreapp3.1\Task_5.AssemblyInfo.cs
+D:\User\Work\1\QualificationTask\Task_5\Task_5\obj\Debug\netcoreapp3.1\Task_5.csproj.CoreCompileInputs.cache
+D:\User\Work\1\QualificationTask\Task_5\Task_5\obj\Debug\netcoreapp3.1\Task_5.dll
+D:\User\Work\1\QualificationTask\Task_5\Task_5\obj\Debug\netcoreapp3.1\Task_5.pdb
+D:\User\Work\1\QualificationTask\Task_5\Task_5\obj\Debug\netcoreapp3.1\Task_5.genruntimeconfig.cache
