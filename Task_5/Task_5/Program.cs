@@ -1,5 +1,8 @@
-﻿// Змінено з IDE
+//Змінено з браузера
 
+// Змінено з IDE
+
+// Конфлікт вирішено 10,03
 using System;
 using System.IO;
 using System.Collections.Generic;
