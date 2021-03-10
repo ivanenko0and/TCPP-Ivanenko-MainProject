@@ -1,4 +1,4 @@
-//GAMMA browser 1
+//Змінено з браузера
 
 using System;
 using System.IO;
