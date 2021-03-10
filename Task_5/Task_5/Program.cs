@@ -1,4 +1,6 @@
-﻿using System;
+//GAMMA browser 1
+
+using System;
 using System.IO;
 using System.Collections.Generic;
 
